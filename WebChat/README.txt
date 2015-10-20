@@ -1,6 +1,6 @@
 README
 
-Project: ChatServer
+Project: WebChat
 
 Authors:
 	Steven Rappe
